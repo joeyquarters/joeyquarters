@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joey</h1>
 <h3 align="center">A curious full-stack engineer in Washington, DC</h3>
 
-- 🔭 I am currently open to new opportunities!
+- 🔭 I am currently employed at [Wisp](https://hellowisp.com/)!
 
 - 👨‍💻 All of my projects are available at [https://www.joeynichols.com/](https://www.joeynichols.com/)
 
