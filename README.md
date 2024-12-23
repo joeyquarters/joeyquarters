@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joey</h1>
-<h3 align="center">A curious full-stack engineer in Washington, DC</h3>
+<h3 align="center">A curious full-stack engineer in Philadelphia, PA</h3>
 
 - 🔭 I am currently employed at [Wisp](https://hellowisp.com/)!
 
